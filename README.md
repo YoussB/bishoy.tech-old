@@ -1,35 +1,15 @@
-Jekyll FullIt Theme 
-======================
+# [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) Starter Template
+[![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/raviriley)
 
-Publish your static website/blog on GitHub Pages using [Jekyll](https://jekyllrb.com/), [Bootstrap 4](https://github.com/twbs/bootstrap/tree/v4-dev) and [fullpage.js](https://github.com/alvarotrigo/fullPage.js/).
+This is the fastest and easiest way to get up and running on GitHub Pages.
+Simply generate your own repository by clicking the 
+[![template button](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/raviriley/agency-jekyll-theme-starter/generate) button, 
+then replace the sample content with your own and configure for your needs.
 
-## Usage
+If you want your website to be at `YOUR-USERNAME.github.io`, that's what you must name your repo. If you want it to be like this: `https://raviriley.github.io/agency-jekyll-theme-starter/`, them make sure the `baseurl` in `_config.yml` matches the name of your repo. You can also use a `CNAME` file and your own custom domain!
 
-### 1. Create a Repo
-- Go to <https://github.com> and create a new repository named *USERNAME.github.io*  
+**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
 
-### 2. Install Jekyll-Bootstrap-3  
-<pre>
-  <code>
-    $ git clone https://github.com/fullit/fullit.github.io USERNAME.github.io
-    $ cd USERNAME.github.io
-    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
-    $ git push origin master  
-  </code>
-</pre> 
-
-### 3. Edit your website configuration
-
-Edit `_includes/themes/bootstrap/` to change information about your new website and also to remove the GitHub red ribbon ([default.html#26](https://fulliit.github.io)).
-
-### 4. Enjoy !
-- After giving 10 mins to GitHub of course.  
-
-## Demo
-
-Visit [Jekyll-Fullit](https://fullit.github.io) on GitHub Pages
-
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
