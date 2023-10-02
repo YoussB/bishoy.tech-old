@@ -21,34 +21,34 @@ en: &DEFAULT_EN
     text: "Tailored Solutions for Every Tech Challenge"
     section: services
     list:
-      - title: "IT Support"
-        desc: "Proactive troubleshooting, maintenance, and support to ensure your IT infrastructure runs seamlessly."
-        icon: fas fa-server
+      # - title: "IT Support"
+      #   desc: "Proactive troubleshooting, maintenance, and support to ensure your IT infrastructure runs seamlessly."
+      #   icon: fas fa-server
       - title: "Software Development"
         desc: "Custom software solutions designed to meet your specific business requirements and accelerate your operations."
         icon: fas fa-code
-      - title: "Data Analytics:"
+      - title: "Data Analytics"
         desc: "Transforming raw data into actionable insights to drive informed decision-making and optimize performance."
-        icon: fas fa-chart-simple
-      - title: "Cloud Migration:"
+        icon: fas fa-chart-area
+      - title: "Cloud Migration"
         desc: "Seamless transition to cloud platforms for enhanced scalability, security, and cost-efficiency."
         icon: fas fa-cloud
       - title: "DevOps Infrastructure:"
         desc: "Establishing robust DevOps practices to foster continuous integration, continuous delivery, and operational efficiency."
-        icon: fas fa-laptop-code
-      - title: "Product Management:"
+        icon: fas fa-cogs
+      - title: "Product Management"
         desc: "Guiding the lifecycle of your products from conception to delivery, ensuring alignment with market demands and your business goals."
-        icon: fas fa-people-roof
-      - title: "Agile Transformation:"
+        icon: fas fa-users
+      - title: "Agile Transformation"
         desc: "Implementing Agile methodologies to enhance team collaboration, project transparency, and adaptability to change."
-        icon: fas fa-arrows-split-up-and-left
+        icon: fas fa-tasks
       # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #   desc: "Your description here, full **Markdown** support"
       #   icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Detailed Services"
+    text: "More Details about our services"
     section: portfolio
     closebutton: "Close Project"
 
@@ -86,7 +86,13 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "In the rapidly evolving world of technology, having a reliable partner by your side is not just an advantage—it's essential. I specialize in guiding businesses through their IT challenges and software ambitions. With a deep well of knowledge in IT support, software development, data analytics, cloud migration, DevOps infrastructure, product management, and agile transformation, I provide bespoke solutions tailored to your unique needs.
+\r\n
+\r\n
+Our mission is to become an extension of your team, bringing a blend of technical expertise and real-world experience to help you navigate the technological landscape, make informed decisions, and achieve your business objectives. Whether it's a one-off consultation or an ongoing project, we're dedicated to delivering exceptional service and results that propel your business forward.
+\r\n
+\r\n
+Take a step toward a seamless tech transition and a competitive edge. Explore our services, view our portfolio, or schedule a consultation to discover how we can contribute to your success. Your technology journey is our priority, and we're here to support you every step of the way."
     section: about
 
   clients:
