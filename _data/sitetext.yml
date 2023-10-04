@@ -50,7 +50,7 @@ en: &DEFAULT_EN
     title: "Detailed Services"
     text: "More Details about our services"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
