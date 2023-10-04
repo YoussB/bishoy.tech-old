@@ -4,7 +4,7 @@ subtitle: Unveiling Actionable Insights for Informed Decision-Making
 
 caption:
   title: Data Analytics
-  subtitle: knowing
+  subtitle: Knowing
   thumbnail: assets/img/portfolio/da-thumbnail.jpg
 ---
 

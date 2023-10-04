@@ -4,7 +4,7 @@ subtitle: You think it, we build it
 
 caption:
   title: Software Development
-  subtitle: building
+  subtitle: Building
   thumbnail: assets/img/portfolio/swdev-thumbnail.jpg
 ---
 {: style="text-align: left;"}

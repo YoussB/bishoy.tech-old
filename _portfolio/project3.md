@@ -4,7 +4,7 @@ subtitle: Elevate Your Business to New Heights
 
 caption:
   title: Cloud Migration
-  subtitle: flying
+  subtitle: Flying
   thumbnail: assets/img/portfolio/cm-thumbnail.jpg
 ---
 
